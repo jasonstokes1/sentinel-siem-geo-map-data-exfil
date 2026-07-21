@@ -64,6 +64,8 @@ NTANetAnalytics
 
 > Geo data (MaxMind GeoLite2) is approximate — read the map as regions, not pinpoints.
 
+![Exfil-by-Volume map](./Exfil-by-Volume.png)
+
 ## How to Use
 
 1. Open **Microsoft Sentinel** → **Workbooks** → **Add workbook** → **Advanced Editor** (`</>` icon).
